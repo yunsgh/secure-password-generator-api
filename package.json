@@ -1,0 +1,10 @@
+{
+  "name": "secure-password-generator-api",
+  "version": "1.0.0",
+  "description": "API for generating cryptographically secure passwords.",
+  "main": "api/generate-password.js",
+  "dependencies": {
+    "crypto": "1.0.1"
+  },
+  "license": "ISC"
+}
